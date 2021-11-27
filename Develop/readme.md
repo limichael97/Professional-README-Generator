@@ -1,9 +1,9 @@
-# Run Buddy ![GitHub license](https://img.shields.io/badge/license-BSD_3-blue.svg)
+# Professional README Generator ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # Description
-To help new runners 
+To be able to quickly generate a professional README for a new project
 # License
-This project is licensed under the BSD_3 license.
+This project is licensed under the MIT license.
 
 # Table of Content
 
@@ -18,13 +18,13 @@ This project is licensed under the BSD_3 license.
 * [Questions](#questions)
 
 # Installation
-Open website and input info
+Download the repository from Github
 # Usage
-Open App
+Open terminal, in the command line type "index.js", answer the prompts then a README.md will be generated
 # Contributing
 Michael Li
 # Tests
-This is a test
+Tests
 
 # Questions 
 If you have any questions about the repo, open an issue or contact me directly at thisislimichael@gmail.com. 

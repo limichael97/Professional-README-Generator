@@ -38,8 +38,8 @@ const questions = [
   {
     type: 'rawlist',
     name: 'license',
-    message: 'Would you like a license in your project?',
-    choices: ['MIT', 'APACHE_2.0', 'GPL_3.0', 'BSD_3'],
+    message: 'What license did you use for your project?',
+    choices: ['MIT', 'APACHE_2.0', 'GPL_3.0', 'BSD_3', 'None'],
   },
   {
     type: 'input',
