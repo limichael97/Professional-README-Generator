@@ -46,6 +46,9 @@ ${renderLicenseSection(data.license)}
 ${data.installation}
 # Usage
 ${data.usage}
+
+Video tutorial:
+https://www.youtube.com/watch?v=__6ZOUeAde8
 # Contributing
 ${data.contribution}
 # Tests
