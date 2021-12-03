@@ -18,9 +18,9 @@ This project is licensed under the MIT license.
 * [Questions](#questions)
 
 # Installation
-Download the repository from Github
+Download the repository from Github 
 # Usage
-Open terminal, type "index.js" in the command line, answer the prompts then a README.ms will be generated
+Open terminal, type "node index.js" in the command line, answer the prompts then a README.ms will be generated
 
 Video tutorial:
 https://www.youtube.com/watch?v=__6ZOUeAde8
